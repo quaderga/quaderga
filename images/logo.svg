@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
 <svg
    version="1.1"
    id="Layer_1"
@@ -9,45 +7,14 @@
    width="165px"
    height="24px"
    viewBox="0 0 165 24"
-   enable-background="new 0 0 165 24"
-   xml:space="preserve"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs5" /><sodipodi:namedview
-   id="namedview5"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="7.8909091"
-   inkscape:cx="81.739631"
-   inkscape:cy="11.975806"
-   inkscape:window-width="1920"
-   inkscape:window-height="991"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-
-
-
-
-
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;white-space:pre;inline-size:47.0614;display:inline;fill:#ffffff"
-   x="46.762672"
-   y="-16.474653"
-   id="text5"
-   transform="matrix(2.6368785,0,0,2.6571272,-88.043815,67.441053)"><tspan
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xml:space="preserve">
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:12px;font-family:'Josefin Sans';white-space:pre;fill:#ffffff"
      x="46.762672"
      y="-16.474653"
-     id="tspan1">Q D G
-</tspan></text></svg>
+     transform="matrix(2.6368785,0,0,2.6571272,-88.043815,67.441053)">Q D G
+  </text>
+</svg>
